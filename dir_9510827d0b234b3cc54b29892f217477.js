@@ -1,5 +1,6 @@
 var dir_9510827d0b234b3cc54b29892f217477 =
 [
+    [ "binary_to_decimal.cpp", "d7/dba/binary__to__decimal_8cpp.html", "d7/dba/binary__to__decimal_8cpp" ],
     [ "buzz_number.cpp", "d1/d76/buzz__number_8cpp.html", "d1/d76/buzz__number_8cpp" ],
     [ "decimal_to_binary.cpp", "df/d06/decimal__to__binary_8cpp.html", "df/d06/decimal__to__binary_8cpp" ],
     [ "decimal_to_hexadecimal.cpp", "da/de7/decimal__to__hexadecimal_8cpp.html", "da/de7/decimal__to__hexadecimal_8cpp" ],

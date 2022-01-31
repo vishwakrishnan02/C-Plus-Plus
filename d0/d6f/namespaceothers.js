@@ -1,5 +1,8 @@
 var namespaceothers =
 [
+    [ "binary_to_decimal", null, [
+      [ "binary_to_decimal", "d7/dba/binary__to__decimal_8cpp.html#a03c7076bfb4e37f38811a9ff55ac9b51", null ]
+    ] ],
     [ "iterative_tree_traversals", null, [
       [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ],
       [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ]

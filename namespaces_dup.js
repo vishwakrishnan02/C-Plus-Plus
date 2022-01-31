@@ -51,6 +51,7 @@ var namespaces_dup =
     ] ],
     [ "base64_encoding", "d9/dc9/namespacebase64__encoding.html", null ],
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
+    [ "binary_to_decimal", "d6/d3f/namespacebinary__to__decimal.html", null ],
     [ "binomial", "d7/d7a/namespacebinomial.html", null ],
     [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],

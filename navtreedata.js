@@ -145,13 +145,13 @@ var NAVTREEINDEX =
 "d5/d58/class_test_cases.html#abae0148985f159b582a385cf399254e3",
 "d6/d30/classmachine__learning_1_1adaline.html#ae347040516e995c8fb8ca2e5c0496daa",
 "d7/d7c/classstatistics_1_1stats__computer1.html#a27f0a03e2fd2254f1c81fe668226bd92",
-"d8/d9a/fast__fourier__transform_8cpp.html#a158fd271b9a53e8f3f60b08b18857150",
-"d9/df0/fast__integer__input_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d61/classgraph_1_1_graph.html#a877b2cba40d8d46dde6fb4209effed19",
-"dd/d91/class_fenwick_tree.html#aaae15ea71455315e257baa11017cec10",
-"df/d06/decimal__to__binary_8cpp.html",
-"globals_func_h.html"
+"d8/d99/connected__components__with__dsu_8cpp.html#ac2d6698b71384a352ec4b81b31b13141",
+"d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248",
+"db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dc/d61/classgraph_1_1_graph.html",
+"dd/d81/namespacecaesar.html",
+"de/dd3/newton__raphson__method_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"globals_func_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
